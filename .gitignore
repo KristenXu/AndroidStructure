@@ -36,3 +36,5 @@ proguard/
 
 # OSX
 *.DS_Store
+
+#testbranch
